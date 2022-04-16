@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Sort_Kvadra\bin\Debug\Sort_Kvadra.exe.config
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Sort_Kvadra\bin\Debug\Sort_Kvadra.exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Sort_Kvadra\bin\Debug\Sort_Kvadra.pdb
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Sort_Kvadra\obj\Debug\Sort_Kvadra.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Sort_Kvadra\obj\Debug\Sort_Kvadra.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Sort_Kvadra\obj\Debug\Sort_Kvadra.exe
+C:\Users\Home\Desktop\учеба\программирование дома\C_#\algorithms and data structures\Sort_Kvadra\obj\Debug\Sort_Kvadra.pdb
